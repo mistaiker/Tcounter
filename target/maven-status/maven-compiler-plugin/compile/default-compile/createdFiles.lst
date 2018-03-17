@@ -1,0 +1,8 @@
+com/Tcounter/beans/PhoneTransaction.class
+com/Tcounter/Main.class
+com/Tcounter/bussiness/TransactionCounter.class
+com/Tcounter/com/Tcounter/CRUD/TransReader.class
+com/Tcounter/beans/MailTransaction.class
+com/Tcounter/beans/Transaction.class
+com/Tcounter/com/Tcounter/CRUD/TransCRUD.class
+com/Tcounter/com/Tcounter/CRUD/TransPersister.class
